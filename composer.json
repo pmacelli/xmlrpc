@@ -1,5 +1,5 @@
 {
-    "name": "comodojo/xmlrpc",
+    "name": "pmarcelli/xmlrpc",
     "description": "Yet another php xmlrpc decoder/encoder",
     "license": "MIT",
     "type": "library",
